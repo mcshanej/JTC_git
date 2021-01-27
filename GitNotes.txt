@@ -1,0 +1,18 @@
+Steps to move a file from local to cloud:
+
+1. git add - select files to sync - Local files
+
+2. git commit - snapshot/picture of files at one point in time (preserves history) - Local files
+
+3. git push - sends the commit to the cloud
+
+git pull - taks commits from the cloud
+
+Repository (repo) - directory with git capabilities - cloud and local repo 
+
+git status 
+
+git clone (link from "code" button on GitHub)
+
+https://github.com/Justice-Through-Code/spring_2021/blob/master/lessons/02_git/git_intro.md
+
